@@ -1,6 +1,6 @@
 ---
 permalink: /secret/
-title: "special secret page"
+title: "Super Secret Page"
 ---
 
 tada
